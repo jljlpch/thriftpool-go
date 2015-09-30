@@ -1,1 +1,1 @@
-# gthrift
+# thriftpool-go
