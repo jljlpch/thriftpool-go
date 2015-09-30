@@ -1,0 +1,16 @@
+*.swp
+.DS_Store
+.godeps/
+.idea/
+.DS_Store/
+
+_vendor
+tmp
+
+\#*#
+auto-save-list
+\#*
+*~
+.#*
+\#*\#
+.emacs.desktop
